@@ -1,0 +1,130 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.top-banner{
+    background-color: blue;
+}
+.element{
+    color: #fff;
+    text-decoration: none;
+}
+.banner-holder{
+    background-image: url(photo/dark\ img.jpg);
+    background-size: cover;
+    background-position: bottom;
+
+}
+.button{
+    padding:15px 30px;
+    margin-right:20px;
+}
+header {background-color: rgba(88, 88, 215, 0);
+    color:aliceblue;
+    padding: 5px;
+    text-decoration: none;
+    
+  }
+.block{
+    box-shadow: 5px 10px #f2f1f1;
+    border-radius: 7px;
+    text-align: center;
+    text-indent: 10px;
+}
+.services{
+    background-image: url(/photo/bg-services-1.jpg);
+    background-size: cover;
+    background-position: bottom;
+
+}
+.block1{
+    outline: 1px solid #007bff;
+    border-radius: 5px;
+    text-align: center;
+}
+.team{
+    background-image: url(/photo/Capture1.JPG);
+    background-size: cover;
+    background-position:bottom;
+}
+.set{
+    background-image: url(/photo/bg6.webp);
+    width: 100%;
+    height:67vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.main-footer{
+    background-image: url(/photo/bg7.jpg);
+    background-size: cover;
+    background-position:bottom;
+}
+.top-banner {
+    background-color: #f0f1f3;
+    color: #fff;
+    padding: 10px 0;
+  }
+.social-icons i {
+    font-size: 20px;
+    margin: 0 5px;
+  }
+.get-quote{
+    background-image: url(/photo/qoute1.jpg);
+    background-size: cover;
+    background-position:bottom;
+}
+.transparent-form{
+    background: rgba(255, 255, 255,0.5 );
+    padding:20px;
+    border-radius:10px;
+    outline: 1px solid rgb(249, 247, 252);
+}
+.effect{
+    color: #f2f1f1;
+}
+.effect:hover{
+    color:#007bff;
+}
+.font-type{ 
+    text-decoration:none;
+    padding-bottom: 10px;
+    text:white;
+    font-size:13px;
+}
+.adress{
+    text:white;
+    font-size:13px;
+    padding-bottom: 10px;
+}
+.techno{
+    text:white;
+    font-size: 13px;
+}
+.form-control{
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+.free-button{
+    margin: 0 auto;
+    display: block;
+}
+.block2{
+    box-shadow:10px 10px 20px rgba(0, 0, 0, 0.2);
+    
+}
+.colored-border{
+    border-width: 2px;
+    border-bottom-color:#007bff;
+}
+.card-feature{
+    padding: 0px;
+}
+.icons{
+    color: #f0f1f3;
+}
+.top-content{
+    color: #f0f1f3;
+    text-decoration: none;
+}
+.features-case{
+    padding: 0px;
+}
